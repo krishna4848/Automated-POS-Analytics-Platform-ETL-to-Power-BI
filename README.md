@@ -1,6 +1,6 @@
 # Automated POS Analytics Platform — ETL to Power BI
 
-🔍 Key Objectives
+🔍 Key Objectives 
 * End-to-end solution: **ingest → clean → validate → model → visualize**.  
 * Converts raw POS records (Timestamp, Store, Category, Product, Size, Price, Cost, Quantity, Discount, Payment Method) into reconciled KPIs (Total_Sale, Profit, Margin %).  
 * Built to support FP&A, Marketing and Operations with actionable, finance-grade insights.
