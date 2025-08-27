@@ -1,12 +1,10 @@
-# POS-Sales-Financial-Dashboard-using-Power-BI
-This project builds a finance-grade analytics solution for a multi-store frozen-yogurt operation modeled on Yogen Früz. The dataset contains transaction-level POS records  and the report translates raw sales into reconciled revenue, margin and operational insights.
+# Automated POS Analytics Platform — ETL to Power BI
 
 🔍 Key Objectives
-
-* Reconcile and validate POS data to ensure finance-grade accuracy (Total\_Sale, Profit, Margin).
-* Identify revenue and margin drivers by **product**, **store**, **category**, and **payment channel**.
-* Evaluate **promotion effectiveness** and **discount penetration** to protect margin.
-* Surface operational levers (hourly and weekday demand) for staffing and inventory optimization.
+* End-to-end solution: **ingest → clean → validate → model → visualize**.  
+* Converts raw POS records (Timestamp, Store, Category, Product, Size, Price, Cost, Quantity, Discount, Payment Method) into reconciled KPIs (Total_Sale, Profit, Margin %).  
+* Built to support FP&A, Marketing and Operations with actionable, finance-grade insights.
+* Reconcile and validate POS data to ensure finance-grade accuracy 
 * Provide interactive, executive-ready visuals to support FP\&A, Marketing, and Ops decisions.
 
 📈 Insights Explored
